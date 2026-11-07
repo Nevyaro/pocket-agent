@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Pocket Agent uses this service to perform actions on your screen, such as tapping buttons and typing text, based on your voice commands.</string>
+    <string name="stop_notification_channel_name">Pocket Agent Stop Controls</string>
+    <string name="stop_notification_channel_description">Swipe down and tap Stop Pocket Agent to cancel Pocket Agent while it is controlling other apps.</string>
+    <string name="stop_notification_title">Pocket Agent is active</string>
+    <string name="stop_notification_text">Open notifications and tap Stop Pocket Agent to cancel the current task.</string>
+    <string name="stop_notification_action">Stop Pocket Agent</string>
+</resources>
